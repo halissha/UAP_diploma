@@ -1,0 +1,10 @@
+/.idea/
+/bin/
+/conda-meta/
+/etc/jupyter/
+/include/
+/lib/
+/man/man1/
+/sbin/
+/share/
+/ssl/
